@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Defect Detection System 
 
-A simple Streamlit app template for you to modify!
+This system identify the mechanical and chemical defects in Welds and paints. 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 

@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("Defect Detection System")
+st.caption("### [This model is still developed by Aari Labs]  [Stay Tuned!]")
+
